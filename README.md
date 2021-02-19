@@ -12,7 +12,8 @@ The model contains the following libraries and frameworks
 - Blog Tutorial: [Link](https://rodneylalonde.wixsite.com/personal/post/d-caps-diagnosis-capsules)
 - GitHub reference: [Link](https://github.com/lalonderodney/D-Caps)
 
-**Note:** <br />The implementation is not completed without the last pooling layer and the reconstruction part
+**Note:** <br />The implementation is not completed without the last pooling layer and the reconstruction part<br />
+
 **Note:** <br />The implementation is quite different<br />
 - I changed some naming styles
 - I embedded the routing inside the ConvCapsuleLayer
